@@ -1,2 +1,2 @@
-# COMP308_W2019_Lesson1
-##Lesson 1 - Emerging technologies
+# COMP308_W2019_Lesson2
+##Lesson 2 - Emerging technologies - TypeScript
